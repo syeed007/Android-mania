@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">myButtonTutorial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="button_types">
+        <item>Button</item>
+        <item>Toggle Button</item>
+        <item>Checkbox</item>
+        <item>Rating bar</item>
+        <item>AutoCompleteTextView</item>
+    </string-array>
+
+    <string name="title_activity_button">Button Demonstration</string>
+    <string name="button_text">Button [Press me]</string>
+    <string name="title_activity_toggle_button">ToggleButton Demonstration</string>
+    <string name="toggle_on">Button On</string>
+    <string name="toggle_off">Button Off</string>
+    <string name="title_activity_checkbox">CheckboxActivity</string>
+
+</resources>
