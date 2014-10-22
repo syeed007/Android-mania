@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">myViewGroupTutorial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="viewGroup_types">
+        <item>RadioGroup</item>
+        <item>TimePicker</item>
+        <item>DatePicker</item>
+        <item>WebView</item>
+        <item>MapView</item>
+    </string-array>
+    <string-array name="adapterViewGroup_types">
+        <item>ListView</item>
+        <item>Galary</item>
+        <item>Spinner</item>
+    </string-array>
+
+</resources>
