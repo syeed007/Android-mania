@@ -74,8 +74,12 @@ public class MainActivity extends ActionBarActivity {
                 	startActivity(mActivityIntent);
                 	break;
                 case RATING_BUTTON:
+                	mActivityIntent = new Intent(MainActivity.this, RatingBarActivity.class);
+                	startActivity(mActivityIntent);
                 	break;
                 case AUTO_COMPLETE:
+                	mActivityIntent = new Intent(MainActivity.this, AutoCompleteTextActivity.class);
+                	startActivity(mActivityIntent);
                 	break;
                 }
                 

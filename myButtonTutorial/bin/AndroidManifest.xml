@@ -52,6 +52,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".RatingBarActivity"
+            android:label="@string/title_activity_rating_bar"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.mybuttontutorial.MainActivity" />
+        </activity>
+        <activity
+            android:name=".AutoCompleteTextActivity"
+            android:label="@string/title_activity_auto_complete_text"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.mybuttontutorial.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

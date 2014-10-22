@@ -19,5 +19,8 @@
     <string name="toggle_on">Button On</string>
     <string name="toggle_off">Button Off</string>
     <string name="title_activity_checkbox">CheckboxActivity</string>
+    <string name="title_activity_rating_bar">RatingBarActivity</string>
+    <string name="title_activity_auto_complete_text">AutoCompleteTextActivity</string>
+    <string name="country_string">Country</string>
 
 </resources>
