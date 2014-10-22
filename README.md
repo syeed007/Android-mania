@@ -9,8 +9,10 @@ The code is commented in such a way that a simple walkthrough down the code will
 
 Happy coding! All codes are free :)
 
-- Mahbubul Syeed
+- Regards
+- -------------
+Mahbubul Syeed
 - Researcher at Dept. of Pervasive Computing, Tampere University of Technology, Finland.
 - Android Application Developer, Packet Video Corporation, Tampere, Finland.
-- mm.syeed@tut.fi
-- rajit.cit@gmail.com
+mm.syeed@tut.fi
+rajit.cit@gmail.com
