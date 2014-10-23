@@ -18,4 +18,10 @@
         <item>Spinner</item>
     </string-array>
 
+    <string name="title_activity_radio_group">RadioGroupActivity</string>
+    <string name="title_activity_date_picker">DatePickerActivity</string>
+    <string name="title_activity_time_picker">TimePickerActivity</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="title_activity_map_view">MapViewActivity</string>
+
 </resources>
