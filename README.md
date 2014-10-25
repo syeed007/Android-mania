@@ -17,9 +17,11 @@ Recommended Reading Sequence:
 
 3. myViewGroupTutorial
 
-4. InternetConnectivityCheck
+4. myLayoutTutorial
 
-5. drawerExampleTest
+5. InternetConnectivityCheck
+
+6. drawerExampleTest
 
 - Regards
 
