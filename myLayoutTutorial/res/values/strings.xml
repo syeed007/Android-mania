@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">myLayoutTutorial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="layoutTypes_array">
+        <item>Linear Layout</item>
+        <item>Grid Layout</item>
+        <item>Table Layout</item>
+        <item>Relative Layout</item>
+    </string-array>
+
+    <string name="title_activity_linear_layout">LinearLayoutActivity</string>
+    <string name="title_activity_grid_layout">GridLayoutActivity</string>
+    <string name="title_activity_table_layout">TableLayoutActivity</string>
+    <string name="title_activity_relative_layout">RelativeLayoutActivity</string>
+
+    <!-- Strings for linear layout -->
+
+    <string name="red_string">red</string>
+    <string name="green_string">green</string>
+    <string name="blue_string">blue</string>
+    <string name="yellow_string">yellow</string>
+    <string name="row_one_string">row one</string>
+    <string name="row_two_string">row two</string>
+    <string name="row_three_string">row three</string>
+    <string name="row_four__string">row four</string>
+
+    <!-- String for table layout -->
+
+    <string name="open_string">Open&#8230;</string>
+    <string name="ctrl_o_string">Ctrl-O</string>
+    <string name="save_string">Save&#8230;</string>
+    <string name="ctrl_s_string">Ctrl-S</string>
+    <string name="save_as_string">Save As&#8230;</string>
+    <string name="ctrl_shift_s_string">Ctrl-Shift-S</string>
+    <string name="x_string">X</string>
+    <string name="import_string">Import&#8230;</string>
+    <string name="export_string">Export&#8230;</string>
+    <string name="ctrl_e_string">Ctrl-E</string>
+    <string name="quit_string">Quit</string>
+
+    <!-- String for relative layout -->
+
+    <string name="ok_string">OK</string>
+    <string name="cancel_string">Cancel</string>
+    <string name="type_here_string">Type here:</string>
+    <string name="title_activity_show_image">ShowImageActivity</string>
+
+</resources>
