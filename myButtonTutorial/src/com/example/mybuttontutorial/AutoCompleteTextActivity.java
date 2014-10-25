@@ -11,6 +11,7 @@ import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.Toast;
 
+
 public class AutoCompleteTextActivity extends ActionBarActivity {
 
 	static final String[] COUNTRIES = new String[] { "Afghanistan", "Albania",
