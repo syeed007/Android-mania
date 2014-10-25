@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">myAdapterViewTutorial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="adapterViewGroup_types">
+        <item>ListView</item>
+        <item>ListView-Extend listActivity</item>
+        <item>Galary</item>
+        <item>Spinner</item>
+    </string-array>
+
+    <string name="title_activity_list_view_adapter">ListViewAdapterActivity</string>
+
+    <string-array name="colors">
+        <item>red</item>
+        <item>orange</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>blue</item>
+        <item>indigo</item>
+        <item>violet</item>
+        <item>aqua</item>
+        <item>black</item>
+        <item>fuchsia</item>
+        <item>gray</item>
+        <item>grey</item>
+        <item>lime</item>
+        <item>maroon</item>
+        <item>navy</item>
+        <item>olive</item>
+        <item>purple</item>
+        <item>silver</item>
+        <item>teal</item>
+        <item>white</item>
+    </string-array>
+
+    <string name="title_activity_galary">GalaryActivity</string>
+    <string name="title_activity_list_view_adapter_list">ListViewAdapterListActivity</string>
+    <string name="title_activity_spinner_adapter">SpinnerAdapterActivity</string>
+
+</resources>
