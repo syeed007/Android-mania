@@ -19,9 +19,11 @@ Recommended Reading Sequence:
 
 4. myLayoutTutorial
 
-5. InternetConnectivityCheck
+5. myMenuAndContextMenuTurorial
 
-6. drawerExampleTest
+6. InternetConnectivityCheck
+
+7. drawerExampleTest
 
 - Regards
 
