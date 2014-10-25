@@ -9,6 +9,13 @@ The code is commented in such a way that a simple walkthrough down the code will
 
 Happy coding! All codes are free :)
 
+Recommended Reading Sequence:
+1. myButtonTutorial
+2. myAdapterViewTutorial
+3. myViewGroupTutorial
+4. InternetConnectivityCheck
+5. drawerExampleTest
+
 - Regards
 
 - -------------
@@ -18,4 +25,5 @@ Mahbubul Syeed
 - Android Application Developer, Packet Video Corporation, Tampere, Finland.
 
 mm.syeed@tut.fi
+
 rajit.cit@gmail.com
