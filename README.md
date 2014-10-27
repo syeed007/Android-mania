@@ -21,9 +21,13 @@ Recommended Reading Sequence:
 
 5. myMenuAndContextMenuTurorial
 
-6. InternetConnectivityCheck
+6. myIntents
 
-7. drawerExampleTest
+7. mySeekBarTutorial
+
+8. InternetConnectivityCheck
+
+9. drawerExampleTest
 
 - Regards
 
