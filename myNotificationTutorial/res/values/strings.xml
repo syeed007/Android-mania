@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">myNotification</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="notification_array">
+        <item>Toast</item>
+        <item>Notification</item>
+    </string-array>
+
+    <string name="title_activity_toast">ToastActivity</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+    <string name="title_activity_notification_receiver">NotificationReceiverActivity</string>
+
+</resources>
