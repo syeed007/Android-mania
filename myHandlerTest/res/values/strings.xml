@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">myHandlerTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="handler_types">
+        <item>Handler Runnable</item>
+        <item>Handler Message</item>
+    </string-array>
+
+    <string name="title_activity_runnable">RunnableActivity</string>
+    <string name="title_activity_message">MessageActivity</string>
+
+</resources>
