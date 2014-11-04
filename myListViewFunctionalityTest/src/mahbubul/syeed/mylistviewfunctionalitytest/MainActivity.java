@@ -23,7 +23,7 @@ public class MainActivity extends ListActivity {
 	ArrayAdapter<String> adapter; 
 	
 	//variables for custom array adapter test
-	CustomArrayAdapter mCustomAdapter;
+	CustomArrayAdapter  mCustomAdapter;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
