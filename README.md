@@ -9,7 +9,7 @@ The code is commented in such a way that a simple walkthrough down the code will
 
 Happy coding! All codes are free :)
 
-Recommended Reading Sequence:
+Recommended Reading Sequence (not upto date.. will be updated soon..):
 
 1. myButtonTutorial
 
