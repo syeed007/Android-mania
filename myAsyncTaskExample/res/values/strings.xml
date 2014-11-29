@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">myAsyncTaskExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_exmp_async_task_one">ExmpAsyncTaskOne</string>
+    <string name="title_activity_exmp_async_task_two">ExmpAsyncTaskTwo</string>
+
+</resources>
