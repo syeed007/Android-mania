@@ -24,6 +24,9 @@ import android.widget.Toast;
 
 public class JSONListview extends ActionBarActivity {
 
+	/**
+	 * JSON file layout is given bellow in this file
+	 */
 	LoadJSONAsync mLoadJson = null;
 	TextView mDisplay;
 
@@ -141,4 +144,97 @@ public class JSONListview extends ActionBarActivity {
 			return jsonResult;
 		}
 	}
+	
+	/*
+	 {
+   "bugs" : [
+      {
+         "alias" : "firstBug",
+         "assigned_to" : "mcafee@gmail.com",
+         "assigned_to_detail" : {
+            "email" : "mcafee@gmail.com",
+            "id" : 1672,
+            "name" : "mcafee@gmail.com",
+            "real_name" : "Chris McAfee"
+         },
+         "blocks" : [],
+         "cc" : [
+            "hchang@mozilla.com",
+            "rexyrexy2@gmail.com",
+            "tymerkaev@gmail.com",
+            "wlevine@gmail.com"
+         ],
+         "cc_detail" : [
+            {
+               "email" : "hchang@mozilla.com",
+               "id" : 475800,
+               "name" : "hchang@mozilla.com",
+               "real_name" : "Henry Chang [:henry]"
+            },
+            {
+               "email" : "rexyrexy2@gmail.com",
+               "id" : 463956,
+               "name" : "rexyrexy2@gmail.com",
+               "real_name" : ""
+            },
+            {
+               "email" : "tymerkaev@gmail.com",
+               "id" : 356256,
+               "name" : "tymerkaev@gmail.com",
+               "real_name" : ""
+            },
+            {
+               "email" : "wlevine@gmail.com",
+               "id" : 68465,
+               "name" : "wlevine@gmail.com",
+               "real_name" : "Will Levine"
+            }
+         ],
+         "cf_fx_iteration" : "---",
+         "cf_fx_points" : "---",
+         "cf_last_resolved" : "1998-12-12T17:06:46Z",
+         "cf_qa_whiteboard" : "",
+         "cf_user_story" : "",
+         "classification" : "Graveyard",
+         "component" : "XFE",
+         "creation_time" : "1998-04-07T08:37:03Z",
+         "creator" : "weitsang@cs.cornell.edu",
+         "creator_detail" : {
+            "email" : "weitsang@cs.cornell.edu",
+            "id" : 55,
+            "name" : "weitsang@cs.cornell.edu",
+            "real_name" : ""
+         },
+         "depends_on" : [],
+         "dupe_of" : null,
+         "flags" : [],
+         "groups" : [],
+         "id" : 35,
+         "is_cc_accessible" : true,
+         "is_confirmed" : true,
+         "is_creator_accessible" : true,
+         "is_open" : false,
+         "keywords" : [],
+         "last_change_time" : "2013-11-20T02:16:47Z",
+         "mentors" : [],
+         "mentors_detail" : [],
+         "op_sys" : "Solaris",
+         "platform" : "Sun",
+         "priority" : "P3",
+         "product" : "MozillaClassic",
+         "qa_contact" : "",
+         "resolution" : "WONTFIX",
+         "see_also" : [],
+         "severity" : "minor",
+         "status" : "VERIFIED",
+         "summary" : "Navigator does not free preference hash table when exit.",
+         "target_milestone" : "---",
+         "url" : "",
+         "version" : "1998-03-31",
+         "whiteboard" : ""
+      }
+   ],
+   "faults" : []
+}
+	 */
 }
